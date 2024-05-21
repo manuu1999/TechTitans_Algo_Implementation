@@ -1,4 +1,4 @@
-package com.techTitans.algorithm.implementation;
+package com.fhnw.TechTitans;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
